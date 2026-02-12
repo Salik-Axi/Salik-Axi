@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer</h1>
+<h1 align="center">Hi 👋, I'm Salik</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
 
 ---
@@ -9,7 +9,6 @@
 - 🔐 Experienced in authentication & REST APIs  
 - 🌱 Currently improving my backend & system design skills  
 - 🎯 Goal: Become a professional Full Stack Developer  
-- 📍 Based in Pakistan  
 
 ---
 
@@ -85,10 +84,10 @@ Analytics dashboard with protected routes and charts.
 
 ## 🌍 Connect With Me
 
-- 💼 LinkedIn: (Add Link)
+- 💼 Upwork: (https://www.upwork.com/freelancers/~0179c65d8c37ab2133)
 - 🌐 Portfolio: (Add Link)
 - 📧 Email: (Add Email)
 
 ---
 
-⭐ From [Sameer](https://github.com/YOUR_USERNAME)
+⭐ From [Salik](https://github.com/Salik-Axi)
