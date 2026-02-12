@@ -70,18 +70,6 @@ Analytics dashboard with protected routes and charts.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 - 💼 Upwork: (https://www.upwork.com/freelancers/~0179c65d8c37ab2133)
