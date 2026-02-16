@@ -44,20 +44,23 @@
 
 ⚡ Electric Xtra – Cyberpunk Landing Page
 A futuristic, neon-styled landing page featuring glitch effects, particle animations, and glassmorphism UI. 
-🔗 Live Demo: (http://127.0.0.1:5501/index.html)  
+🔗 Live Demo: electric-xtra-cyberpunk-landing-page
+  
 
 ---
 
 🌌 Creative Motion Portfolio
 A modern, high-performance portfolio website for a Digital Marketing & SEO Agency using HTML5, Bootstrap, and Video Backgrounds.  
-🔗 Live Demo: (http://127.0.0.1:5501/index.html)
+🔗 Live Demo: salik-axi-seo-portfolio
+
 
 ---
 
 
 🚀 Salik-Axi Digital Agency
 A high-performance SEO & Digital Marketing portfolio built with Bootstrap 5 and animated UI. 
-🔗 Live Demo: (http://127.0.0.1:5500/index.html)  
+🔗 Live Demo: salik-axi-digital-agency
+  
 
 ---
 
