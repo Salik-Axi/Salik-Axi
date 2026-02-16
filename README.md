@@ -42,39 +42,30 @@
 
 ## 🔥 Featured Projects
 
-### 📝 Smart Task Manager
-A full-stack task management app with authentication and task status tracking.  
-🔗 Live Demo: (Add Link)  
-📂 Repo: (Add Link)
+⚡ Electric Xtra – Cyberpunk Landing Page
+A futuristic, neon-styled landing page featuring glitch effects, particle animations, and glassmorphism UI. 
+🔗 Live Demo: (http://127.0.0.1:5500/index.html)  
 
 ---
 
-### 🛒 Mini E-Commerce Store
-Full-stack shopping application with cart & admin panel.  
-🔗 Live Demo: (Add Link)  
-📂 Repo: (Add Link)
+🌌 Creative Motion Portfolio
+A modern, high-performance portfolio website for a Digital Marketing & SEO Agency using HTML5, Bootstrap, and Video Backgrounds.  
+🔗 Live Demo: (http://127.0.0.1:5500/index.html)
 
 ---
 
-### 💬 Real-Time Chat App
-Socket.io based real-time messaging app with authentication.  
-🔗 Live Demo: (Add Link)  
-📂 Repo: (Add Link)
 
----
-
-### 📊 Admin Dashboard
-Analytics dashboard with protected routes and charts.  
-🔗 Live Demo: (Add Link)  
-📂 Repo: (Add Link)
+🚀 Salik-Axi Digital Agency
+A high-performance SEO & Digital Marketing portfolio built with Bootstrap 5 and animated UI. 
+🔗 Live Demo: (http://127.0.0.1:5500/index.html)  
 
 ---
 
 ## 🌍 Connect With Me
 
 - 💼 Upwork: (https://www.upwork.com/freelancers/~0179c65d8c37ab2133)
-- 🌐 Portfolio: (Add Link)
-- 📧 Email: (Add Email)
+- 🌐 Portfolio: (https://www.behance.net/salikjaved2)
+- 📧 Email: (salik.retrocus@gmail.com)
 
 ---
 
