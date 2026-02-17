@@ -44,7 +44,7 @@
 
 ⚡ Electric Xtra – Cyberpunk Landing Page
 A futuristic, neon-styled landing page featuring glitch effects, particle animations, and glassmorphism UI. 
-🔗 Live Demo: electric-xtra-cyberpunk-landing-page
+🔗 Live Demo: (https://salik-axi.github.io/electric-xtra-cyberpunk-landing-page/)
   
 
 ---
