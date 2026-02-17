@@ -51,7 +51,7 @@ A futuristic, neon-styled landing page featuring glitch effects, particle animat
 
 🌌 Creative Motion Portfolio
 A modern, high-performance portfolio website for a Digital Marketing & SEO Agency using HTML5, Bootstrap, and Video Backgrounds.  
-🔗 Live Demo: salik-axi-seo-portfolio
+🔗 Live Demo:  (https://salik-axi.github.io/salik-axi-seo-portfolio/)
 
 
 ---
