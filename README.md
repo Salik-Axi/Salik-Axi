@@ -59,7 +59,7 @@ A modern, high-performance portfolio website for a Digital Marketing & SEO Agenc
 
 🚀 Salik-Axi Digital Agency
 A high-performance SEO & Digital Marketing portfolio built with Bootstrap 5 and animated UI. 
-🔗 Live Demo: salik-axi-digital-agency
+🔗 Live Demo: (https://salik-axi.github.io/salik-axi-digital-agency/)
   
 
 ---
